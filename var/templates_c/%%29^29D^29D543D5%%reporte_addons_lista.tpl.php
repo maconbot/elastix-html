@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.14, created on 2015-02-18 23:36:48
+<?php /* Smarty version 2.6.14, created on 2015-03-11 19:04:36
          compiled from /var/www/html/modules/addons_availables/themes/default/reporte_addons_lista.tpl */ ?>
 <?php $_from = $this->_tpl_vars['arrData']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
     foreach ($_from as $this->_tpl_vars['k'] => $this->_tpl_vars['data']):
